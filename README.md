@@ -23,5 +23,5 @@
 
 + Clone this repository
 + Open a command line console and go inside the repo's directory and run the command "jupyter lab"
-![](./evidences/command.PNG)
+![](./evidences/command.png)
 + There are the graphics and the results of the program.
