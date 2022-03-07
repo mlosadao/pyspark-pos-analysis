@@ -1,4 +1,4 @@
-# pyspark-pos-analysis (Taller 1 - Parte 2)
+# pyspark-pos-analysis (Taller 1)
 
 ## Members:
 - León Vargas Boris Nicolas
