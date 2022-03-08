@@ -6,7 +6,7 @@
 
 
 ## Youtube Video:
-- [Recording]
+- https://youtu.be/bw_i9_Z24XA
 
 
 ## High-level functionality
